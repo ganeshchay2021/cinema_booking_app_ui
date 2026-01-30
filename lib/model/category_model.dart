@@ -6,19 +6,19 @@ class Category {
 
 List<Category> categories = [
   Category(
-    emoji: 'assets/smiling-face.png',
+    emoji: 'https://cdn-icons-png.flaticon.com/512/15348/15348730.png',
     name: 'Romance',
   ),
   Category(
-    emoji: 'assets/grinning-face.png',
+    emoji: 'https://static.vecteezy.com/system/resources/previews/068/186/013/non_2x/smiling-emoji-face-laughing-out-loud-expressive-icon-free-png.png',
     name: 'Comedy',
   ),
   Category(
-    emoji: 'assets/horror.png',
+    emoji: 'https://static.vecteezy.com/system/resources/previews/053/292/700/non_2x/smiling-face-with-eyes-emoji-realistic-free-png.png',
     name: 'Horror',
   ),
   Category(
-    emoji: 'assets/face.png',
+    emoji: 'https://static.vecteezy.com/system/resources/previews/053/292/700/non_2x/smiling-face-with-eyes-emoji-realistic-free-png.png',
     name: 'Drama',
   )
 ];
